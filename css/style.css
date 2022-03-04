@@ -1,0 +1,42 @@
+.margen_biografia{
+    margin-top: 3rem;
+}
+
+.margen_texto{
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
+.margen_iframe_biografia{
+    margin-bottom: 3rem;
+}
+
+.margen_subtitulo_index{
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
+.margen_subtitulo_index_2{
+    margin-top: 5rem;
+    margin-bottom: 3rem;
+}
+
+.estrenos{
+    display: flex;
+    justify-content: center;
+    width: auto;
+    height: 25rem;
+    
+    align-items: center;
+}
+
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+.pie_pagina{
+    background-color: aliceblue;
+    width: auto;
+    height: 100%;
+    display: flex;
+}
