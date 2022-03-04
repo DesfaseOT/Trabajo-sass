@@ -1,0 +1,14 @@
+body {
+  background-color: white; }
+  body .margen_biografia {
+    margin-top: 3rem; }
+  body .margen_texto {
+    margin-top: 3rem;
+    margin-bottom: 3rem; }
+  body .margen_iframe_biografia {
+    margin-bottom: 3rem; }
+  body .pie_pagina {
+    background-color: aliceblue;
+    width: auto;
+    height: 100%;
+    display: flex; }
